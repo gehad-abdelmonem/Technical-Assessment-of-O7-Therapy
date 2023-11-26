@@ -18,7 +18,7 @@ namespace Hhealth_Blatform.DAL.Repos.Session
 
         public async Task<IQueryable<Data.Models.Session>> GetQuerable()
         {
-            IQueryable<Hhealth_Blatform.DAL.Data.Models.Session> query = _context.Sessions;
+            IQueryable<Hhealth_Blatform.DAL.Data.Models.Session> query = _context.Sessions.Include(s=>s.Therapist);
             return query;
         }
 
