@@ -1,0 +1,15 @@
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\bin\Debug\net7.0\Hhealth_Blatform.BL.deps.json
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\bin\Debug\net7.0\Hhealth_Blatform.BL.dll
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\bin\Debug\net7.0\Hhealth_Blatform.BL.pdb
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\bin\Debug\net7.0\Hhealth_Blatform.DAL.dll
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\bin\Debug\net7.0\Hhealth_Blatform.DAL.pdb
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\obj\Debug\net7.0\Hhealth_Blatform.BL.csproj.AssemblyReference.cache
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\obj\Debug\net7.0\Hhealth_Blatform.BL.GeneratedMSBuildEditorConfig.editorconfig
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\obj\Debug\net7.0\Hhealth_Blatform.BL.AssemblyInfoInputs.cache
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\obj\Debug\net7.0\Hhealth_Blatform.BL.AssemblyInfo.cs
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\obj\Debug\net7.0\Hhealth_Blatform.BL.csproj.CoreCompileInputs.cache
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\obj\Debug\net7.0\Hhealth_Blatform.BL.csproj.CopyComplete
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\obj\Debug\net7.0\Hhealth_Blatform.BL.dll
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\obj\Debug\net7.0\refint\Hhealth_Blatform.BL.dll
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\obj\Debug\net7.0\Hhealth_Blatform.BL.pdb
+J:\iti\HhealthBlatform\Hhealth_Blatform.BL\obj\Debug\net7.0\ref\Hhealth_Blatform.BL.dll

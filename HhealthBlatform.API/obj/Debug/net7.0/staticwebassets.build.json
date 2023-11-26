@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6IEzoDjukMdtJm8MU+Ybdgp0zF6DX4nFA4XavLjP6JA=",
+  "Source": "HhealthBlatform.API",
+  "BasePath": "_content/HhealthBlatform.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
